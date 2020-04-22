@@ -25,4 +25,12 @@ public class Task {
     public String Get_task(){
         return Task;
     }
+
+    public int Get_start(){
+        return Start;
+    }
+
+    public int Get_end(){
+        return End;
+    }
 }
