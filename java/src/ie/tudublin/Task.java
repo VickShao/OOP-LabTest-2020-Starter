@@ -21,4 +21,8 @@ public class Task {
     {
         return  this.Task + ", " + this.Start + ", " + this.End;
     }
+
+    public String Get_task(){
+        return Task;
+    }
 }
